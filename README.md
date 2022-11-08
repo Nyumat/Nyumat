@@ -47,8 +47,6 @@ Here are some ideas to get you started:
   </p>
 
 
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/azizovrafael"><img alt="Tom's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nyumat&custom_title=Nyumat's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-  
+<summary><b>⚡ Watch my contributions get eaten by a snake!  ;)</b></summary>
+   <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid"><img alt="Snakeeee" src="https://github.com/nyumat/nyumat/blob/output/github-contribution-grid-snake.svg"/></a>
+  <!--    <a href="https://github.com/nyumat"><img alt="Tom's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nyumat&custom_title=Nyumat's%20Contribution%20Graph&theme=react-dark" /></a> -->
