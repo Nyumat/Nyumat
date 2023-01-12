@@ -33,10 +33,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-> **Note** Top Languages is simply a GitHub metric to determine which languages have the most code on my GitHub repos!
-
 <p align="center">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyumat&layout=compact&hide_border=false&langs_count=4&bg_color=0E1117&theme=github_dark&custom_title=Languages%20I%20Use%20Frequently&exclude_repo=CS340,Nyumats-Website,Pathfinding-Algorithm-Tool,anuraghazra.github.io"/>
+  <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nyumat&layout=compact&hide_border=false&langs_count=4&bg_color=0E1117&theme=github_dark&custom_title=Languages%20I%20Use%20Frequently&exclude_repo=CS340,Nyumats-Website,Pathfinding-Algorithm-Tool,anuraghazra.github.io"/>
 </p>
 
 <br>
@@ -57,13 +55,13 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/Nyumat/The-TikTok-Bot">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nyumat&repo=The-TikTok-Bot&show_owner=true&theme=github_dark"/>
+    <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=nyumat&repo=The-TikTok-Bot&show_owner=true&theme=github_dark"/>
   </a>
   <a href="https://github.com/Nyumat/NyumatFlix">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=nyumat&repo=NyumatFlix&show_owner=true&theme=github_dark"/>
+    <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=nyumat&repo=NyumatFlix&show_owner=true&theme=github_dark"/>
   </a>
   <a href="https://github.com/Nyumat/Progress">
-      <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Nyumat&repo=Progress&show_owner=true&theme=github_dark"/>
+      <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Nyumat&repo=Progress&show_owner=true&theme=github_dark"/>
   </a>
   </p>
 
@@ -73,7 +71,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-    <img alt="GitHubStats" src="https://github-readme-stats.vercel.app/api?username=nyumat&count_private=true&theme=github_dark&hide_title=true&hide_rank=true&show_icons=true&card_width=290&include_all_commits=false&hide=contribs" />
+    <img alt="GitHubStats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nyumat&count_private=true&theme=github_dark&hide_title=true&hide_rank=true&show_icons=true&card_width=290&include_all_commits=false&hide=contribs" />
 </p>
 
 <h2 align="center"><b>⚡ &nbsp; Watch my contributions get devoured! &nbsp; ⚡  </b>
