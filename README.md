@@ -57,8 +57,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/Nyumat/The-TikTok-Bot">
     <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=nyumat&repo=The-TikTok-Bot&show_owner=true&theme=github_dark"/>
   </a>
-  <a href="https://github.com/Nyumat/NyumatFlix">
-    <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=nyumat&repo=NyumatFlix&show_owner=true&theme=github_dark"/>
+  <a href="https://github.com/Nyumat/TheAIDoctor">
+    <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=nyumat&repo=TheAIDoctor&show_owner=true&theme=github_dark"/>
   </a>
   <a href="https://github.com/Nyumat/Progress">
       <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Nyumat&repo=Progress&show_owner=true&theme=github_dark"/>
