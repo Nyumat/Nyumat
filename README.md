@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <a href="https://wakatime.com/@939cb8ba-6e9f-4bec-988e-0c7c39845513"><img src="https://wakatime.com/badge/user/939cb8ba-6e9f-4bec-988e-0c7c39845513.svg"width="250" height="30"/></a>
 </p>
 
+<!---
 <br>
 <h2 align="center">💻 &nbsp; Languages &nbsp; 💻</h2>
 <br>
@@ -36,6 +37,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nyumat&layout=compact&hide_border=false&langs_count=4&bg_color=0E1117&theme=github_dark&custom_title=Languages%20I%20Use%20Frequently&exclude_repo=CS340,Nyumats-Website,Pathfinding-Algorithm-Tool,anuraghazra.github.io"/>
 </p>
+--->
 
 <br>
 <h2 align="center">📚 &nbsp;Tech I <i>Love</i> Using</i> &nbsp;📚 </h2>
