@@ -1,8 +1,9 @@
 <h1 align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="65"></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=200&duration=2500&pause=1000&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=973&height=183&lines=%F0%9F%98%B8+Hi+there!+If+you're+new+here%2C+bienvenue!+%F0%9F%98%B8;I+put+tech+related+projects+on+here+for+secure+storage+and+easy+deployment.;%F0%9F%A7%91%F0%9F%8F%BF%E2%80%8D%F0%9F%8E%93%F0%9F%A6%AB+I'm+a+Computer+Science+Major+at+Oregon+State+University.+%F0%9F%A7%91%F0%9F%8F%BF%E2%80%8D%F0%9F%8E%93%F0%9F%A6%AB;My+interests+include%3A+coding+fun+apps%2C+mastering++clarinet%2C+and+reptiles.;%F0%9F%8E%9F%EF%B8%8F+Many+of+my+projects+are+open-source%2C+so+feel+free+to+submit+a+PR%2FIssue!+%F0%9F%8E%9F%EF%B8%8F;%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A+*%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A*%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A+*%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A*%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A+*%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A*++Cheers%2C++%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A+*%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A*%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A+*%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A*%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A+*%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A*;-+Nyumat+(%E0%B2%A0%E2%80%BF%3C)" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=28&duration=2000&pause=1033&color=F77500&center=true&vCenter=true&multiline=true&width=735&height=80&lines=Hello%2C+welcome+to+my+GitHub!;Enjoy+your+stay+(%E0%B2%A0%E2%80%BF%3C)" alt="Typing SVG" /></a>
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=200&duration=2500&pause=1000&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=973&height=183&lines=%F0%9F%98%B8+Hi+there!+If+you're+new+here%2C+bienvenue!+%F0%9F%98%B8;I+put+tech+related+projects+on+here+for+secure+storage+and+easy+deployment.;%F0%9F%A7%91%F0%9F%8F%BF%E2%80%8D%F0%9F%8E%93%F0%9F%A6%AB+I'm+a+Computer+Science+Major+at+Oregon+State+University.+%F0%9F%A7%91%F0%9F%8F%BF%E2%80%8D%F0%9F%8E%93%F0%9F%A6%AB;My+interests+include%3A+coding+fun+apps%2C+mastering++clarinet%2C+and+reptiles.;%F0%9F%8E%9F%EF%B8%8F+Many+of+my+projects+are+open-source%2C+so+feel+free+to+submit+a+PR%2FIssue!+%F0%9F%8E%9F%EF%B8%8F;%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A+*%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A*%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A+*%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A*%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A+*%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A*++Cheers%2C++%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A+*%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A*%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A+*%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A*%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A+*%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A*;-+Nyumat+(%E0%B2%A0%E2%80%BF%3C)" alt="Typing SVG" /></a>
 </p>
-
+ -->
 <!--
 **nyumat/nyumat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,14 +23,18 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <b>Time spent writing spaghetti: </b>
+<!--   <b>time spent : </b> -->
   </p>
 <p align="center">
 <a href="https://wakatime.com/@939cb8ba-6e9f-4bec-988e-0c7c39845513"><img src="https://wakatime.com/badge/user/939cb8ba-6e9f-4bec-988e-0c7c39845513.svg"width="250" height="30"/></a>
 </p>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=nyumat&label=Peeks&color=000000&style=for-the-badge" alt="Profile-Views">
+</div>
 
-<br>
+
+<!-- <br>
 <h2 align="center">💻 &nbsp; Languages &nbsp; 💻</h2>
 <br>
 <br>
@@ -74,16 +79,14 @@ Here are some ideas to get you started:
 
 <p align="center">
     <img alt="GitHubStats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nyumat&count_private=true&theme=github_dark&hide_title=true&hide_rank=true&show_icons=true&card_width=290&include_all_commits=false&hide=contribs" />
-</p>
+</p> -->
 
-<h2 align="center"><b>⚡ &nbsp; Watch my contributions get devoured! &nbsp; ⚡  </b>
+<!-- <h2 align="center"><b>⚡ &nbsp; Watch my contributions get devoured! &nbsp; ⚡  </b> -->
   <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid"><img alt="SnakeSVG" src="https://github.com/Nyumat/Nyumat/blob/master/assets/github-contribution-grid-snake.svg"/></a>
-</h2>
+<!-- </h2> -->
    
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=nyumat&label=Peeks&color=000000&style=for-the-badge" alt="Profile-Views">
-</div>
+
  
  
   <!--    <a href="https://github.com/nyumat"><img alt="Tom's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nyumat&custom_title=Nyumat's%20Contribution%20Graph&theme=react-dark" /></a> -->
