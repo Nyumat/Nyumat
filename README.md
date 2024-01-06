@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://wakatime.com/@939cb8ba-6e9f-4bec-988e-0c7c39845513">
-  <img src="https://wakatime.com/badge/user/939cb8ba-6e9f-4bec-988e-0c7c39845513.svg"width="250" height="30"/>
+  <img src="https://wakatime.com/badge/user/939cb8ba-6e9f-4bec-988e-0c7c39845513.svg"width="200" height="25"/>
 
 </a>
 
