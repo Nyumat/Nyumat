@@ -4,7 +4,7 @@
 
 Here are the *"Nyumat Happenings"* for the last year or so:
 
-* As [President](https://res.cloudinary.com/dkosoobf7/image/upload/v1701164853/pf/IMG_2832_kt5kuv.jpg) of [OSU's App Development Club,](https://linktr.ee/osuappclub) I lead the release of our [fall term project.](https://beavsai.onrender.com)
+* As [President](https://res.cloudinary.com/dkosoobf7/image/upload/v1701164853/pf/IMG_2832_kt5kuv.jpg) of [OSU's App Development Club,](https://linktr.ee/osuappclub) I led the release of our [fall term project.](https://beavsai.onrender.com)
 * My university [wrote an article](https://engineering.oregonstate.edu/all-stories/oregon-state-team-wins-top-prize-cal-hacks-competition) about our [win at CalHacks,](https://devpost.com/software/nexus-27zakp) the largest college [hackathon](https://res.cloudinary.com/dkosoobf7/image/upload/v1701164838/pf/IMG_3290_h4njhz.jpg) in the world.
 * During my time as a member of the [OSU's Marching Band](https://www.oregonstateband.org/), I got one of the [best photos of all time.](https://res.cloudinary.com/dkosoobf7/image/upload/v1686308789/pf/pg_hitukq_b3bsbi.webp)
 * The [social media app](https://talktobeavs.onrender.com) we built for OSU students, which earned ["Hall of Fame" honors,](https://web.engr.oregonstate.edu/~hessro/teaching/hof/cs494) got a [new design system.](https://github.com/Nyumat/TalkToBeavs/pull/45)
