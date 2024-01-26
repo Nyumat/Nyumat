@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://komarev.com/ghpvc/?username=nyumat&label=Peeks&color=000000&style=for-the-badge" alt="Profile-Views">
-
+<!--  <img src="https://komarev.com/ghpvc/?username=nyumat&label=Peeks&color=000000&style=for-the-badge" alt="Profile-Views"> --->
+<!-- Hackers ugh. --->
 
 <a href="https://wakatime.com/@939cb8ba-6e9f-4bec-988e-0c7c39845513">
   <img src="https://wakatime.com/badge/user/939cb8ba-6e9f-4bec-988e-0c7c39845513.svg"width="200" height="25"/>
