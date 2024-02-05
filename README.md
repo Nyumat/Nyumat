@@ -2,27 +2,27 @@
 
 ### Welcome to my corner of GitHub!
 
-Here are the *"Nyumat Happenings"* for the last year or so:
+what a ride the last year has been. 
 
 * As [President](https://d3uraa353l50l1.cloudfront.net/image-1706002331768-IMG_2832_kt5kuv.jpg?Expires=1708594349&Key-Pair-Id=K2QFIALPUONXG1&Signature=XssRSaShh-fn~C3YN-bp12WzpJQK1VWgZwmZpshEvtyBgvzv0f8aELJD267FbOthptPw7IfTmBxz1lPtCI4YTIm2hNYF0X2h2VwgW4ZoESlcrCbT3a4kXOm8AvnjSsY~ZnEMnwyry9BuspU6e7apGHRexmhdv6jA0OXUm9JZSE-m1BtWD76YKMQPqFS46wpjep1qnNujlmDSXEWxo7F2bzNlHfifzF3vC3WBwFFLYOII0TAuapdaodCOq1toOJ9gazx81urtycl1DeWvHhWTXaEJVU-OBPMKvH6na~Y9M186UH1WUgEa11wdimkg8IgryjA1hTpFxYSRg0vkUprOSA__) of [OSU's App Development Club,](https://linktr.ee/osuappclub) I led the release of our [fall term project.](https://beavsai.onrender.com)
 * I'm reading a few books, one about [sustainable habits](https://www.amazon.com/How-Keep-House-While-Drowning/dp/1668002841) and another about [leading the life you were meant to have.](https://www.amazon.com/Unfu-Yourself-Your-Head-into/dp/0062803832)
 * My university [wrote an article](https://engineering.oregonstate.edu/all-stories/oregon-state-team-wins-top-prize-cal-hacks-competition) about our [win at CalHacks,](https://devpost.com/software/nexus-27zakp) the largest college [hackathon](https://d3uraa353l50l1.cloudfront.net/image-1705998565804-IMG_3290_h4njhz.jpg?Expires=1708590654&Key-Pair-Id=K2QFIALPUONXG1&Signature=jyItqhNr7ABlE2c3v~nSps15hZF5ZZbPq5qR46l0c7t~rcjn~W72pN9-mq21Yx3YtPq2cTNTOwmcQ56KbHf6lxXeAMQMR0Zw~6sTdXXnONqTW7D~tHQx5C6m7ZOV4moPNaf0ZKifbL~iMpGP9B7II~6DZP9ikguXqwFoSI41TcbVX5MgHQks07Dnt02fVwg8S~dNTnPuuTMCv4JnPM303XgRqZ~m0GIt8QaxU2Z2QAqBHP~8MOAbTIVUujFKrPuRztKChA5OSZAoLZrhcsOYVQL~lGvMRdiezaWMhSNX4OIIFrpX9XioppAeUtiKdcWgtRvyDuQQJv7IQnb4Em6QXg__) in the world.
 * During my time as a member of the [OSU Marching Band](https://www.oregonstateband.org/), I got one of the [best photos of all time.](https://d3uraa353l50l1.cloudfront.net/image-1705995992655-image0000001_qfskdw.jpg?Expires=1708594349&Key-Pair-Id=K2QFIALPUONXG1&Signature=EDl3GkjNL8gMlqAyQvCWPE5DWsnabDG7D8VXPu~IFt1xAlxvpyZf3GrRsgrXsy23D44CdCA4EUUQ4ET7rs7zBAhCnGJOJQy-RkyY0NGeG0F~OGAjxGyl~cNEXFYTNu-hRdBIxXLjmFj6FK3IQUdXW8bsQnNCScGovZhjOnD25u-RrWcib5T6Z~f9Q~VKbedaitGJu6r8snfB1uNoKc3bPGMFJ7SoA8pIAe-cY8lOWCRd4SQl-YbfKiRj05g6NzuoRvQzt7ZG33pSI~4ISr1OlZy9W~9Xed5P8dxCJPGUHIFkhn2ovKVuZxqbAJZZouU-~YDSr9YLWcYwvJObuH9V5Q__)
 * The [social media app](https://talktobeavs.onrender.com) we built for OSU students, which earned ["Hall of Fame" honors,](https://web.engr.oregonstate.edu/~hessro/teaching/hof/cs494) got a [new design system.](https://github.com/Nyumat/TalkToBeavs/pull/45)
-* I'm working with an [OSU team](https://github.com/NextJudge) on a [competitive programming framework](https://d3uraa353l50l1.cloudfront.net/image-1706000438901-Screen_Shot_2023-12-23_at_5.33.27_PM_wd94hg.png?Expires=1708592617&Key-Pair-Id=K2QFIALPUONXG1&Signature=BU6hi2omY0K5pLQ3iCeWQScOfBCgrFqWe8iKmlhn3oQ~Ran00KYCWdKCr6LzUhH~KExbSUBPZkbJWAagiiAO-~0WFUHVBE5No1MTt2FriIEGOoIkG0QIUM1DZnBJQKbRnLpnfotvhTn9GQh1yyIExg83p3KjvOisDmTxg7lsqdBL~SKyLy0ObsouNTxL3d02I~D~v9h1z2S5yUCjXLb85eUiXdXkryL3qfT~yRV8GHuIW2A4pfK~pf~3bULEJv-UtJj9uuYWApxE-jJOZxGucvK~mT2RM3K0Csv34zdCUHZp~HJrtT7Mc10w2Ao1rHLVt~QS7ZREsvp4VrwgnSnj6Q__) to help students prepare for ICPC.
+* I'm working with an [OSU team](https://github.com/NextJudge/NextJudge) on a [competitive programming framework](https://nextjudge.vercel.app/) to help students prepare for [ICPC](https://icpc.global/).
 * As [Webmaster of ACM@OSU](https://acm.oregonstate.edu/about/#the-team), I spearheaded the development of our [new site](https://acm.oregonstate.edu) to a modern, sleek look; including a [blog](https://acm.oregonstate.edu/blog).
 * Recently, I've concluded that [Go](https://github.com/Nyumat/titan) might be my favorite [programming language](https://go.dev/).
-* Using Emoji commit messages [are my new go-to,](https://github.com/Nyumat/titan/commits/master/) you should give it a try!
-* The [website](https://tomnyuma.rocks) I won 100 dollars for developing in 24 hours...[finally got an update.](https://github.com/Nyumat/showcase/pull/3)
+* Using Emoji commit messages [are my new go-to,](https://github.com/Nyumat/NyumatFlix) you should ✨ give it a try ✨! 
+* The [website](https://tomnyuma.rocks) I won a competition for developing...[finally got an update.](https://github.com/Nyumat/showcase/pull/3)
 * I got [stuck in New York City](https://cdn.discordapp.com/attachments/694640666617053346/1153503207247577088/IMG_2659.jpg?ex=65a5dc13&is=65936713&hm=88aea95f093d3a9315bbf378493bfe11a24a18fc8504f6359553d52ba59cc8cd&) traveling back home from a [hackathon at MIT.](https://d3uraa353l50l1.cloudfront.net/image-1705998374032-IMG_2571_tigzqv.jpg?Expires=1708590654&Key-Pair-Id=K2QFIALPUONXG1&Signature=c7ArbxZN6fWun35wjQt5oM0ee5kFuCKfJ9NfhnrBdcXqwyqo1~FiOW4dYRRWJ4j1FJYle4AIPX128cgdLUcfu77qggxhVmU-3MxLloZkm30NcWpZk81tFw2okg039BrZcvtc8KkSZukiUYLmykCDZbnzBEyj1zKCT4QoQmCIgqaYjV3hZD2B7~FRZhv87cLOfZzUMWocxygw8PJLR8BADdQyPkuI8MxW3eemvnG-4ROeC3JQkesr4j51x749KIpSF8rlvPo4DKHm5t32fQcdUCoUnTOvqOrWYzdTjbvlIOkrywQARSxC47KVQqGwc9E36i6QTu2~dKJ2yghjFRwejg__)
 
 
 
 
 
-You can view all of the cool photos of this stuff
+All the epic photos of this stuff are
 <a href="https://tomnyuma.rocks">
-on my website.</a> 😁
+on my domain.</a> 
 
 
 
