@@ -1,7 +1,7 @@
 <!--<h1 align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="65"></h1>- -->
 
 
-hey :) the fun stuff is on the 
+hey :) the visual stuff is on the 
 <a href="https://tomnyuma.rocks">
 website.</a> 
 
